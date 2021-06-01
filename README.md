@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently building internal tools at [SmartAsset](https://smartasset.com/)
 
-- 👯 I’m collaborating at [Amalgam](https://www.amalgam.co/)
+- 👯 I’m consulting at [Amalgam](https://www.amalgam.co/)
 
 - 👨‍💻 All of my work is available at [https://brianstern.codes/](https://brianstern.codes/)
 
-- 📫 How to reach me **briansternhk@gmail.com**
+- 📫 How to reach me: **briansternhk@gmail.com**
 
 - ⚡ Fun fact **I didn't study this in school**
 
